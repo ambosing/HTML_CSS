@@ -1,0 +1,36 @@
+body {
+  font-family: sans-serif;
+  background-color: black;
+}
+
+.header-cover {
+  margin: 0;
+  padding: 0;
+  top: 0;
+}
+
+.header-content {
+  top: 0;
+  left: 0;
+  width: 100%;
+  position: absolute;
+}
+
+.real-header {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.header-logo {
+  height: 50px;
+}
+
+.header-avatar {
+  height: 50px;
+  width: 50px;
+}
+
+.content {
+  color: white;
+}
